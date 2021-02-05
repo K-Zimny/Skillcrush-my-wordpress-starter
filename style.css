@@ -123,6 +123,7 @@ section {
 
 body {
     line-height: 1;
+    background-color: #F8F6F4;
 }
 
 ol,
@@ -363,7 +364,7 @@ input[type="button"],
 input[type="submit"] {
     font: 700 1.125em/3.5 'Montserrat', 'OpenSans', Arial, sans-serif;
     color: #fff;
-    background: #45ac9d;
+    background: #087e8b;
     border: none;
     padding: 0 2em;
 }
@@ -390,7 +391,7 @@ body {
 
 body {
     background: #fff;
-    border-top: 6px solid #45ac9d;
+    border-top: 6px solid #087e8b;
     color: #3b3b3b;
     font-size: 16px;
     font-size: 1em;
@@ -418,7 +419,7 @@ body {
 }
 
 .page-header .top-logo .title {
-    color: #45ac9d;
+    color: #087e8b;
     font: 700 1.88em/1.3125 'Montserrat', 'OpenSans', Arial, sans-serif;
     letter-spacing: -0.034em;
     display: block;
@@ -451,7 +452,7 @@ body {
 }
 
 .page-header .top-nav ul li:hover>a {
-    border-bottom: 1px solid #45ac9d;
+    border-bottom: 1px solid #087e8b;
 }
 
 .page-header .top-nav ul ul {
@@ -564,11 +565,11 @@ body {
 }
 
 .entry-title a:hover {
-    color: #45ac9d;
+    color: #087e8b;
 }
 
 .entry-time {
-    color: #45ac9d;
+    color: #087e8b;
     font: 600 .82em/1.65 'OpenSans', Arial, sans-serif;
 }
 
@@ -579,11 +580,11 @@ body {
 }
 
 .category .page-title span {
-    color: #45ac9d;
+    color: #087e8b;
 }
 
 .entry-summary a {
-    color: #45ac9d;
+    color: #087e8b;
     text-decoration: underline;
     font-weight: 600;
 }
@@ -611,7 +612,7 @@ body {
     font-size: 13px;
     font-size: .8em;
     font-family: 'OpenSans', Arial, sans-serif;
-    color: #45ac9d;
+    color: #087e8b;
     font-weight: 600;
     text-transform: uppercase;
     text-decoration: none;
@@ -623,7 +624,7 @@ body {
 }
 
 .post-entry .read-more a:hover {
-    border-bottom: 1px solid #45ac9d;
+    border-bottom: 1px solid #087e8b;
 }
 
 .entry-footer .entry-terms {
@@ -643,7 +644,7 @@ body {
 }
 
 .entry-footer .entry-terms a:hover {
-    border-bottom: 1px solid #45ac9d;
+    border-bottom: 1px solid #087e8b;
 }
 
 .entry-terms span {
@@ -731,7 +732,7 @@ body {
     border-left: none;
     font: .875em/1.75em 'Open Sans', Arial, sans-serif;
     height: 2.6em;
-    background: url('img/white-arrow-right.png') no-repeat center #45ac9d;
+    background: url('img/white-arrow-right.png') no-repeat center #087e8b;
     color: #ffffff;
     margin-left: -5px;
     padding: 0;
@@ -741,7 +742,7 @@ body {
 #sidebar .widget_categories h2,
 #sidebar .widget_archive h2 {
     font: 700 .875em/1.75 'OpenSans', Arial, sans-serif;
-    color: #45ac9d;
+    color: #087e8b;
     margin: 0 auto 1.25em;
 }
 
@@ -788,7 +789,7 @@ body {
 
 #navigation .left a,
 #navigation .right a {
-    color: #45ac9d;
+    color: #087e8b;
     text-decoration: none;
     font-weight: 600;
     text-transform: uppercase;
@@ -880,7 +881,7 @@ body {
 }
 
 .comment-list .comment a {
-    color: #45ac9d;
+    color: #087e8b;
     text-decoration: none;
 }
 
@@ -894,14 +895,14 @@ body {
 }
 
 .comments-area .comment-reply-title {
-    color: #45ac9d;
+    color: #087e8b;
     font: 700 1.176em/1.75 'Montserrat', 'OpenSans', Arial, sans-serif;
     text-transform: uppercase;
     margin: 2em 0 1em;
 }
 
 .comments-area .comment-reply-title a {
-    color: #45ac9d;
+    color: #087e8b;
 }
 
 .comments-area .comment-reply-title a:hover {
@@ -935,7 +936,7 @@ body {
 }
 
 .comments-area .comment-form p a {
-    color: #45ac9d;
+    color: #087e8b;
 }
 
 .comments-area .comment-form p a:hover {
@@ -958,7 +959,7 @@ body {
 }
 
 .comments-area .comment-form input[type="submit"] {
-    background: #45ac9d;
+    background: #087e8b;
     width: 12.875em;
     height: 3.5em;
     font: 700 1.25em/2.5 'Montserrat', 'OpenSans', Arial, sans-serif;
@@ -976,7 +977,7 @@ body {
 .page .entry-title {
     font-weight: 500;
     text-align: center;
-    border-bottom: 0.07em solid #45ac9d;
+    border-bottom: 0.07em solid #087e8b;
     padding-bottom: .5em;
 }
 
@@ -1124,7 +1125,7 @@ body {
 }
 
 .home .btn {
-    background: #45ac9d;
+    background: #087e8b;
     color: #fff;
     font: 700 1.125em/3.5 'Montserrat', 'OpenSans', Arial, sans-serif;
     display: inline-block;
